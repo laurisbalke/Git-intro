@@ -1,2 +1,4 @@
-# Git-intro
-How to work with git
+## Git-intro
+- How to work with git
+- basic commands
+
